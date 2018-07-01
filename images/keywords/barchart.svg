@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="23px" viewBox="0 0 19 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>barchart</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="97.8481756%" id="linearGradient-1">
+            <stop stop-color="#FFAF02" offset="0%"></stop>
+            <stop stop-color="#FF7902" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-221.000000, -2739.000000)" fill="url(#linearGradient-1)">
+            <g id="Group-9" transform="translate(203.000000, 2723.000000)">
+                <path d="M19.2254289,38 C18.5489405,38 18,37.4722114 18,36.8200544 L18,33.1799456 C18,32.5277886 18.5489405,32 19.2254289,32 L21.7745711,32 C22.4518668,32 23,32.5277886 23,33.1799456 L23,36.8200544 C23,37.4722114 22.4518668,38 21.7745711,38 L19.2254289,38 Z M26.2254289,38 C25.5489405,38 25,37.3404274 25,36.5254327 L25,17.4745673 C25,16.660544 25.5489405,16 26.2254289,16 L28.7745711,16 C29.4510595,16 30,16.660544 30,17.4745673 L30,36.5254327 C30,37.3404274 29.4510595,38 28.7745711,38 L26.2254289,38 Z M33.2257414,38.007 C32.548719,38.007 32,37.336184 32,36.5072964 L32,24.5067036 C32,23.678804 32.548719,23.007 33.2257414,23.007 L35.7742586,23.007 C36.451281,23.007 37,23.678804 37,24.5067036 L37,36.5072964 C37,37.336184 36.451281,38.007 35.7742586,38.007 L33.2257414,38.007 Z" id="barchart"></path>
+            </g>
+        </g>
+    </g>
+</svg>
