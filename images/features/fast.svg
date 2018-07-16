@@ -1,12 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="64px" height="58px" viewBox="0 0 64 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
-    <title>Bitmap</title>
+<svg width="63px" height="85px" viewBox="0 0 63 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 4 Copy</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Artboard" transform="translate(-716.000000, -1673.000000)">
-            <image id="Bitmap" x="716" y="1673" width="64" height="58" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAA6CAYAAAAA0F95AAAAAXNSR0IArs4c6QAAChNJREFUaAXlWmtsXEcV/ubedew43iR1Qx7QCreAkypRg9o0zqMBO3UIqkT5Q8oPJJAgPBIJBWgcEUCqkShBcfOoEJRH+gf1DzE/SCtVTQu1Ic2jJqkCSohwoTFKoG5DnAY/4vXuncM5d/fu3teu9+7dtSsxkj0zZ86cc76zc+d5gBomItrLf3NqqCK26ERsCaUFbObmv/LfsaPbYD5yH+6qN9FqGXifIiSZLn+SRklh1NS4lrIw+NzruPxoL6xsU23/q1qJv96N+c1bHj+Ea+cfwN+PaRDugVLljQaiKShcYtv6OX9lZBT9t3fjv7WwtaoOOPsV1N1/Nz5JJj6vFD4FqPrqGE0pIjyvLPzq3Jt4cc0vkK6OXLawGoKufBNz378M25WBLgV1ZzVkFpNBoCuk0fPvt3DkzkO4VYyvXHosB1A3DD0PXzYMfB+klpSrtCp8it7WGo8b4/il6oauVGbFDpjaj/vqDDzNg2ht2crZaP71/sZKh7iPfNOjub4yGc4noIXbVvBcsThHLyOjgbTGjjl78HoZzAGWihyQ6cGXTOCn005qmoZh4nms+05y7NQPdyW78E7AghDCaA8WzwXaTQObeS34NAy1NIStQOJJk5eMnYkuPFMglleK5ABZyra14QD/6rtKiSdNz7Hgp3v/hJfjLme2zgewhUfHDmWoR0rphUWHe89idxSdZTvgRjcWLpiHXyulPlHMCFJ00kpjT923caoYTxx6+kfYYNZhvyK1sZgc3ni9dHMcn72tG+8W43HTy3LA5H58qN7AC/zLt7o758tEl7i8V3XhWJ5WwwL18GcB7ONP8J5wNTSY0ni4YQ/+Ed5eoBqFYnhJfvmS4DX9rH8c984UeLFSdJ17A6vBusOtVq1is9ge3l6glhwB8v19Zi1eCB32RBmtsMvczZPhLCbrSew0CE/xaAhs6+Vz+M0AHi41J5R0AD2Jw+ETHo1kCNvquvDKLGLPq073YHNCoZdtbc4T8wV6Su3GN/JVX6GoA+ylTqkjPn6u0khKYX3DYxgMts0eZfIAWusJp8OcYBFtL7ZEhjrA3uQoFuY/vPCwzwBb3yu/vN/d9kgAjgc+B94npAnrwzZLgUlQtrf2Ds8PnrXJN18p+Otn2uaP/3HTMr/R1ayLbWJjQCZjEUyCzd8WIMjenodRcHvLM26cCa8JTd+rr6t7wm9Ateu2jaGrg1qbxebV6HGAnOrsg42Xhz97utQ/ga/7yVHq/At0sv/vjtKnUl7b1uzexCNCsAlGN9HjADnSFjnV7e3oBn/+laWbp1bK7Lza0GipTEK0Xjlb9wZ68YnVxuhqyDtALjPkPO9qs4uyvY27yZlnLOsgYv9D3UF97YH12q+zGnWxWWz3yxKMgtWh5x0gNzlhlxmyt3eYK87Jekj6sg/MyWZd0wsTt41htgtGwerw5R0g11gO0cnlVFeNg41hGLYDRG5iMnGXI7/WudguGPx63FhtB8gFZvYOz8vKmwS+8IiXJs6030Ew8ocoZRgt8SRG6x2GQbAKZpFkO6A5iXb+Pr0XmHyZIef5aOqC3HNUYrObSlZmxkaA6LUxyMWMJ6n6LOacA/jK2mOkzWviWKlDhEdeqQohP/yFTWFmR4CNgbEETMxhtkcAN7b7GSxdnYOOQdrjANYzoyNAcBXB0i5tCTnyZh8tpFpIt9LoK9QqK02+2rGcDPMD7t58dG1x18PKZ39+f93qVQvWGwatgWHSRCr1bPJjJ66F8ZZDu8UPLE1+Rn6oEexqch8+XF+n3vC08+2tegylLyI9HcIr1pmOnVCJn7hblbLonRv/SS7d+pdxNz11sn1VwkQn7xe2GIb6OE+c85x2BWt4bHRs1fzOgesOLWpOBzDs3+Sl0vSRhLzV+YXJ1bWfVkmdoB7iWdiTiEy1aOGiw1OnO47wtmA5SHfyhUsnT0f2QYlnaB6Q3kQwlzYmk5uY+ltvS/k1ljnIope4ewj2hDxUmm4ql5lxyEeKXJWTF5Fq50fPQFIwt/OV93a7Qfm1B9htAgOo+NcXAUrjMgMTJ+aTYDdyr7R5Yq4gjxaxUnrrpo/yzi/khia6WAU9PvjP4dei9/T0CGAS7LIKJD1s2YrzYhPSVB7JNOr9s395HUO4NPSrKx+9OBXSFIUUhsl2QBQhZfMSsvv/sjuUYORP5vclmmM1yQgI9UwcqRePrpxjwHgwjgx3X0unquGA0JFuSGSGW1mubO+TQ+hlkVo/uLTNvYyV1akIk9J6pO74ifNFmqOQA5gEuyFhKX4pPOO2+GlR6rzUL5qOX9Z2IutZfu//gqUz63jpfSasD9/x9akYz9+OzDBMgj0hMTn8iuJJfGmw3EOIWJlI6RNNjRiW9dvpKjO51vQHPg3+LpPJvFy/sf+C0yb58PF7Lyy+bdEXZZ/gpnO/qrw9sNAVbrlSFuzKfn1diwn/FfgY0ZJyn7P9gqU+enLD4sZE4+egLR7F6uyfL9w8vear59JhvA5Nn9581b91TqczKxoe7Iu1MZPn9ial3nb02DlflfcOoDEhpyVqswOSVrsZ5mYPSEfdtCjl5MZTEgtwKEofHu5D/Evlzw5KW/+KC17057B4TeEgLMHuDP5+bytgByf4ibWvX3ar0MqoxuxfDEu/6Mo6gEPR3IrtMkdm2CfFQEPtCAQ95JGuENsBNgaJMvGnHGbbARKHx0eQlIeHw1K2cWSGh1bjijITnhEwRZngDxPRBhtDIMSGUlnMuRFwOwchShyeXzYvHTv8tFrWSRdGAM/+g43r+q/G1ReGQbAKZpHtzAGQIES/MonJkbAUP71W9UxDJj8CtNaxh7/YHhZX5Maad4BEYEoQoh+cxOT4abWqN4wYV3jNtGz5Kv7+P8x2wShYHQx5B0j4qURgOg1OLgFJuZgch1SzXHX08/MbXVXshXH9Vl8cRWJzWDCVYHSH2uYdIMok/BR8HRaieF9fN2bkSUsbGOLHjPMLNlwcCbGjLFLO1n0BZsZmY3Q1eBwgsbcSfupqzxY5Gqu9ET8O0GtB0HgzAxXr+7dtDYkgE2z++GKPAwSPxN7yMBwIYDPU1yQgKUCvMiGVTn93DGM/qFSsbSPbGuxPA1ls3hbPwcNp+r8OkREnSCwNT8XBX5tD0SQaSwKSHGe9V3KxyY4UCwmXEyxh8UFie+ATcADZUVUce+vUC7lqlmgsCUgq0Ga3JLYUixCT+OFiEWJidVEHSKMEHkuwoZS9STXzknB8JuYEr95gTWwQW/jiO3ADLbYLhmCvAiV0Dig0Azc43HRhE15jBdlhLy8X0ov3mPhWds8i/Py4Ma0s4atWYnBiQTYd5LcFx6Y8mQbfHUPbdEHTJUeASBcBEnjMiLOBkQ5MJ8/ZMFObJVEX0OXY4uRsq9g8Hfic6dEy6yCeoIMYtXP5GXIpmpT43I5eyd02RZWc91nUjsIvyp1+s/kJxNH9Pxa9lKtxabauAAAAAElFTkSuQmCC"></image>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="45" height="10" rx="5"></rect>
+        <rect id="path-3" x="0" y="0" width="43" height="10" rx="5"></rect>
+        <rect id="path-5" x="0" y="0" width="44" height="10" rx="5"></rect>
+        <rect id="path-7" x="0.454718997" y="5.30737109" width="20" height="8" rx="4"></rect>
+        <circle id="path-9" cx="16" cy="16" r="16"></circle>
+    </defs>
+    <g id="Artboard-4-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rectangle-52" transform="translate(1.000000, 18.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#FFC05A" xlink:href="#path-1"></use>
+            <rect fill="#FFDDA6" opacity="0.6" mask="url(#mask-2)" x="16" y="0" width="33" height="10" rx="5"></rect>
         </g>
+        <rect id="Rectangle-52-Copy" fill="#FFC05A" x="1" y="32.3333333" width="44" height="10" rx="5"></rect>
+        <rect id="Rectangle-52" fill="#FFDDA6" opacity="0.285043025" x="18" y="32" width="22" height="10" rx="5"></rect>
+        <g id="Rectangle-52" transform="translate(1.000000, 46.666667)">
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <use id="Mask" fill="#FFC05A" xlink:href="#path-3"></use>
+            <rect fill="#FFDDA6" opacity="0.6" mask="url(#mask-4)" x="16" y="0" width="33" height="10" rx="5"></rect>
+        </g>
+        <g id="Rectangle-52" transform="translate(1.000000, 61.000000)">
+            <mask id="mask-6" fill="white">
+                <use xlink:href="#path-5"></use>
+            </mask>
+            <use id="Mask" fill="#FFC05A" xlink:href="#path-5"></use>
+            <rect fill="#FFDDA6" opacity="0.6" mask="url(#mask-6)" x="16" y="0" width="33" height="10" rx="5"></rect>
+        </g>
+        <g id="Group-20" transform="translate(21.000000, 23.000000)">
+            <g id="Rectangle-55" transform="translate(22.000000, 19.000000)">
+                <mask id="mask-8" fill="white">
+                    <use xlink:href="#path-7"></use>
+                </mask>
+                <use id="Mask" fill="#FF8B1B" transform="translate(10.454719, 9.307371) rotate(36.000000) translate(-10.454719, -9.307371) " xlink:href="#path-7"></use>
+                <rect fill="#C86C13" mask="url(#mask-8)" transform="translate(3.287745, 3.281582) rotate(-50.000000) translate(-3.287745, -3.281582) " x="-5.71225451" y="-4.76998787" width="18" height="16.1031388"></rect>
+            </g>
+            <g id="Rectangle-54">
+                <mask id="mask-10" fill="white">
+                    <use xlink:href="#path-9"></use>
+                </mask>
+                <use id="Mask" fill="#FF8B1B" xlink:href="#path-9"></use>
+                <rect fill="#FEAA58" mask="url(#mask-10)" x="-5" y="9" width="18" height="10" rx="5"></rect>
+            </g>
+        </g>
+        <circle id="Oval-9" stroke="#FFFFFF" stroke-width="4" cx="37" cy="39" r="9"></circle>
     </g>
 </svg>

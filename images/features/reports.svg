@@ -1,12 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="54px" height="70px" viewBox="0 0 54 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
-    <title>Bitmap</title>
+<svg width="63px" height="85px" viewBox="0 0 63 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 4</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Artboard" transform="translate(-1054.000000, -1663.000000)">
-            <image id="Bitmap" x="1054" y="1663" width="54" height="70" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADYAAABGCAYAAACHZ2ccAAAAAXNSR0IArs4c6QAAAxZJREFUaAXtW71rFEEUf2/27uIRjhgwCrmEiCABC2OjYpHG2NhYWAtiYyU22gpWChH0X9BOIb2ViAhioxCjwcJE8AuJRFGT+8jdznP2FJJcbt/uDuvM3jIDgcy8z9/7ukkyQWBWaxamCwLuAuABhi1bJEmfQMBF5LySszCPAg9zPJmkKXCCcwwFjHH0zNIEjrHAMut4DMdyC6wQgK89O1ktQKu6IxALCx4A7Ti2ftBsAmyoL2ah/3zmCgq6ReSxg4TRYZyEKtb4bhHg65dQ2wIRrvUTqAAJqRTQ+P5QUAFBEIghliOrRK/Iepbb4eGAsXnPILEz7kP9km2AZiOUHEoYKKvuVZ8UFhcP7OcPEK/nE7snjxwFqNidSa7HEqfNskBuM8b32GAF5OSh5LEv70ouk7IED6ykHNw7mrJJM+pyW4oOmJkCSs+Ky1h6sTSjyWXMTJzTs+Iyll4szWjibx6DBwGr58140stKaxXo/Z1elMgzHlhhCHD3sUgl/4uBGp+1Vbse0w6dJUG+FP01oLW3llxTZje+advmgSlQtHhZW7lNQddjNqOvY9tlTCdqNmX44VEaARg+Yc+/9jrA6iMt+zyw8gSIiUtaitMQCm4epAnM9VgaGTCpI7cZ43vs10uQL86aDHSXLdm1j7/lgZFSrO6L/bhyW4oOWL+VI99jQr2lKO6JxtT6DiC3PAFSz+agtC9aLoqD1N/ANX8m44FVpkBM3ogyD3Lpprr6PN7kU6DE1L3NveZ3nZvHqwta0q7HtMJmUSi3GeN7rLb8t3+iIv/7zXYONUw6fbf9NPnOryeX+SfBAwum3dahENdMMCF15OLqj8GX21J0wGJkP1MsfI/V1c1+ZcWew0X1gm50Qss+D6xRB/FhWUtxGkJUHgDSBOZ6LI0MmNNBfi4zRgRP+R4bHgE5fcpcoBNZQnULoLluEfXLjI+1FtzmgXVLZWnviXW8CufCXMplKQZg8wsMydd4fx5WAAbPPWD9FhLpgUF3UjPlk7zPKUO6DsI/PXMGJY1zjFmiEbaXvONPHiIG/3DVe/0BWUarxEnG3XgAAAAASUVORK5CYII="></image>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="58" height="80" rx="6"></rect>
+    </defs>
+    <g id="Artboard-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Oval-8" transform="translate(2.000000, 3.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#FEB43D" xlink:href="#path-1"></use>
+            <circle fill="#FFC05A" mask="url(#mask-2)" cx="0" cy="30" r="50"></circle>
         </g>
+        <rect id="Rectangle-44" fill="#FFEBCB" x="9" y="30" width="40" height="4" rx="2"></rect>
+        <rect id="Rectangle-44-Copy-4" fill="#FFEBCB" x="9" y="45" width="22" height="4" rx="2"></rect>
+        <rect id="Rectangle-44-Copy" fill="#FFEBCB" x="9" y="37.5" width="29" height="4" rx="2"></rect>
+        <rect id="Rectangle-41" fill="#FF7904" opacity="0.729393116" x="9" y="10" width="12" height="12" rx="3"></rect>
+        <polyline id="Path-9" stroke="#FF7904" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" points="10.7691538 64.916023 23.1695261 73.9471091 32.033829 61.5119464 41.9568735 69.0291562 53.8427538 52.4673258"></polyline>
+        <circle id="Oval-6" stroke="#FFC05A" stroke-width="2" fill="#FE8813" cx="32.5" cy="61.5" r="2.5"></circle>
+        <circle id="Oval-6-Copy-3" stroke="#FFC05A" stroke-width="2" fill="#FE8813" cx="22.5" cy="72.5" r="2.5"></circle>
+        <circle id="Oval-6-Copy-4" stroke="#FFC05A" stroke-width="2" fill="#FE8813" cx="10.5" cy="64.5" r="2.5"></circle>
+        <circle id="Oval-6-Copy-5" stroke="#FEB43D" stroke-width="2" fill="#FE8813" cx="41.5" cy="70.5" r="2.5"></circle>
+        <circle id="Oval-6-Copy-6" stroke="#FEB43D" stroke-width="2" fill="#FE8813" cx="52.5" cy="53.5" r="2.5"></circle>
+        <path d="M45.3974179,14.2458938 C45.3974179,14.2458938 50.2347032,21.4131778 59.9092737,35.7477457 L59.9092737,18.0287323 C50.2347032,15.50684 45.3974179,14.2458938 45.3974179,14.2458938 Z" id="Path-10" fill="#D89222" opacity="0.4"></path>
+        <path d="M45,3 L60,3 L60,18 L51,18 C47.6862915,18 45,15.3137085 45,12 L45,3 Z" id="Rectangle-51" fill="#DB921C"></path>
+        <rect id="Rectangle-47" fill="#FFFFFF" transform="translate(60.031223, 6.031223) rotate(-315.000000) translate(-60.031223, -6.031223) " x="43.0312229" y="-2.46877708" width="34" height="17"></rect>
     </g>
 </svg>
